@@ -1,0 +1,153 @@
+The intro to a jumpchain or CYOA or other SI is a brutal make or break moment. Such a short amount of time to motivate readers, convince them that this fic is good, actually. Worse than the 'locker scene' that plagued Worm fanfiction for so long, because not only is it heavily constrained and formulaic, but you also have to get across the underlying mechanics of the thing. And, of course, I'm thinking about all of this because one minute I was at my desk at my office job, and the next I was floating in some kind of white void.
+
+Just as I'm thinking that I hope this is the setup to a jumpchain, and not something awful, a vague person shape appears in front of me, and speaks.
+
+"That's close enough to consent for this. Okay. So. This is a Jumpchain. Or at least, something following a similar enough script. No, don't say anything yet, don't even think anything yet, let me explain first. You are getting the chance to save a multiverse. Comic book like superheroes and supervillains, multiverse in the balance, the whole nine yards. Now my little munchkin, the limits: I can't tell you all of the limits. What I will say is that I can only send in a single person, we have a budget to work on for empowering you, and while I am placing my thumb as firmly on the scale as I can, Free Will is a pretty big deal for us."
+
+For just a moment the shadowy shape became distinct, and 'jump-chan' looked like... an older me, with a night sky filled with stars instead of eyes...
+
+"Naughty naughty, I *said* no thinking yet."
+
+I could hear the smirk.
+
+"So, my thumb on the scale, what kind of power disbursement system do you think will work for you here? We are working on a time limit. No, before you think - no yogjumper. No Medaka Box. No god-mode-ing. I say no god-mode-ing and your mind immediately jumps to the Mahabharata. There isn't even a published Mahabharata jumpdoc! Come on, out with it."
+
+I lick my lips, before saying: "Fast five, with double or nothing, no companions...?"
+
+"Eh, good enough. Right, oh, yeah, and there are fundamental underlying mechanics to this omniverse, so use your judgement. Some jumpdocs, or some perks within jumpdocs might just give you less than you think."
+
+"Uh, can you give me some guidance when I pick a jumpdoc like that - surely that wouldn't contravene Free Will if I'm asking for such a narrow thing?"
+
+And, well, after that was just a lot of tedious cross referencing things in jumpdocs, with the occasional "Hmm. No. That won't work out how you are thinking." from my benefactor.
+
+"Ah, so, before I pick between these builds, which comic book universe are you putting me in?"
+
+"I can't tell you that until you have picked out a build. Oh, and a name - I'm taking your current one for... safe keeping. Just think of it like... having to stay in character."
+
+"Uh, I guess I'll go by Flavius Belisarious. Uh, and for a hero name I'll have to wait and see which multiverse I end up in - wouldn't want to be a duplicate, right? For my build, given the options, I'll take this:"
+
+[SPOILER=My Build, Fast Five + Double or Nothing rules]
+
+## We Know the Devil
++1000 CP
+Type: Drop In
+Summer Camp Skills (Free)
+Ingratiation (100 CP, discounted to Free)
+The Meaning of This Parable (600 CP, discounted to 300 CP)
+
+700CP unspent.
+Remainder doubles to 1400 CP.
+
+## Blackest Night / Brightest Day
++1000 CP
+Type:    Drop In
+Corps:   Black Lantern Corps
+Species: Human
+
+Looking the Part (100 CP, discounted to Free)
+“Jumper of Earth-Prime.” (200 CP, discounted to 100 CP)
+Mind as an Island (400 CP, discounted to 200 CP)
+You Built it Out of What? (600 CP, discounted to 300 CP)
+
+RISE (Free)
+The Dead Rise (600 CP, discounted to 300 CP)
+Power Ring and Lantern Power Battery (Free)
+
+1500CP unspent.
+Remainder doubles to 3000 CP.
+
+## Partially Kissed Hero
++1000 CP
+
+Type: Drop In
+
+Wand Magic (0 CP)
+Protective Shield (200 CP)
+Oracular Protections (300 CP)
+Detect Bullshit (200 CP, discounted to 100 CP)
+Armoured No More (400 CP, discounted to 200 CP)
+Malacaw Venom Immunity (100 CP)
+
+3100CP unspent.
+Remainder doubles to 6200 CP.
+
+## Hancock
++1000 CP
+Type: Drop In
+
+One more time (100 CP, discounted to Free)
+Rememberance (200 CP)
+Perfect Control (400 CP)
+Incredibly Wholesome (200 CP)
+Try and be Better (400 CP)
+
+6000CP unspent.
+Remainder doubles to 12000 CP.
+
+## FRANK HERBERT's DUNE
++1000 CP
+
+Type:    Mercenary
+Subtype: Drop In (+200 CP)
+
+A Place For Every Man And Every Man In His Place (Free)
+Battle Training (Free)
+
+Born With It (100 CP)
+The Fiat of Gender (200 CP)
+Comfort is a Trap, Authority is a Cage (300 CP)
+The Golden Path (1000 CP, discounted to 700 CP)
+Humanity Unchained (600 CP)
+Smuggler (100 CP, discounted to Free)
+Lay of the Land (100 CP, discounted to Free)
+Unbeholden (100 CP, discounted to Free)
+A Lesson in Every Experience (100 CP)
+Troubadour (200 CP, discounted to 100 CP)
+Hidden From Sight (200 CP, discounted to 100 CP)
+Suk School Doctor (400 CP, discounted to 200 CP)
+Sword Master of the Ginaz (400 CP, discounted to 200 CP)
+A Word to the Wise - Capstone boosted to: Better Lucky than Wise (600 CP, discounted to 300 CP)
+Lead, Don’t Follow (100 CP)
+No Mere Animal (200 CP)
+The Training of Experts (200 CP)
+Leader of Men (400 CP)
+Good Breeding - Capstone boosted to: Better Breeding (600 CP)
+Weirding Technology (400 CP)
+Litany Against Fear (100 CP)
+First Stage (200 CP)
+Second Stage (400 CP)
+Third Stage - Capstone boosted to: Fourth Stage (600 CP)
+Weirding Way (200 CP)
+Missionaria Protectiva (200 CP)
+Technocracy (200 CP)
+Mentat - Mentat Advisor (400 CP)
+Politics is Truth (400 CP)
+Butlerian Understanding (400 CP)
+Ancestral Voice - Capstone boosted to: Living History (600 CP)
+Tleilaxu Master - Capstone boosted to: Super Facedancer (600 CP)
+Forbidden Knowledge - Capstone boosted to: Thinking Machine (600 CP)
+Juice of Sapho (100 CP, discounted to Free)
+Water of Life (200 CP)
+Spice Gas Tanks (400 CP)
+Spice Tolerance (100 CP)
+The Jihad - Capstone boosted to: Speaks to Fishes (600 CP)
+Spice Cache × 10 (1000 CP)
+Variable Speed Slow Shield (100 CP, discounted to Free)
+Trade Goods (100 CP, discounted to Free)
+Tech Cache (200 CP, discounted to 100 CP)
+No Chamber (200 CP, discounted to Free)
+Smuggler Ship (600 CP, discounted to 300 CP)
+Master of Assassins (400 CP)
+Improved Shielding (200 CP)
+Heighliner (200 CP, discounted to 100 CP)
+Eyes of the Ibad (100 CP)
+
+0CP unspent.
+
+[/SPOILER]
+
+"The Pact is sealed. The universe I will be sending you to is Wildbow's Worm, right at the start of canon. Come on, don't make that face: for all the horrors of that setting, you don't have to worry about bullshit like Flashpoint. Anyway, you have all of your powers and abilities, all of your 'stuff' is in your warehouse, it should all be pretty straightforward. I'll give you a second to activate whatever you need to activate, then I'm sending you on."
+
+As my mind expanded under all of the mental enhancement perks I had, I fumbled around and activated 'Unbeholden', and while I was still trying to activate my power ring, there was a surprisingly non-jarring transition.
+
+
