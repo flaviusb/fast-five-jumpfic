@@ -68,7 +68,6 @@ Unbound (600 CP)
 Mystery (200 CP)
 Multi-Aspected (400 CP)
 Golden Blooded (600 CP)
-//Dark Psychologies (400 CP)
 Beloved (100 CP, discounted to Free)
 Unpredictable (200 CP, discounted to 100 CP)
 Hero of the Age (400 CP, discounted to 200 CP)
@@ -163,7 +162,7 @@ Songs of Power (400 CP)
 ## Campione
 +1000 CP
 
-Type: Drop In
+Origin: Drop In
 
 Reward the Child (100 CP)
 Those Who Would Be Kings (200 CP)
